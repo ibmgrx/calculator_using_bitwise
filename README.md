@@ -1,6 +1,6 @@
 # Calculator using Bitwise Operators
 
-This is a simple calculator program written in C that performs basic mathematical operations (addition, subtraction, multiplication, and division) using bitwise operators. The program takes two numbers as input from the user and displays the result of the operation. Error handling is included for division by zero.
+This is a simple calculator program written in C that performs basic mathematical operations (addition, subtraction, multiplication, and division) only using bitwise operators. The program takes two numbers as input from the user and displays the result of the operation. Error handling is included for division by zero.
 
 ## How to use
 1. Clone this repository or download the source code.
